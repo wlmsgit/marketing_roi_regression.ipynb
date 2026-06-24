@@ -1,2 +1,8 @@
-# marketing_roi_regression.ipynb
-Marketing ROI Analysis – Simple Linear Regression  This project analyzes a marketing dataset to identify which advertising  channel (TV, Radio, or Social Media) has the strongest impact on Sales  using Simple Linear Regression with statsmodels OLS.
+# Marketing ROI Analysis – Simple Linear Regression
+Built with Python, Pandas, and statsmodels to identify the ad channel with strongest sales impact.
+
+## Setup
+pip install pandas numpy matplotlib seaborn statsmodels
+
+## Usage
+Run all cells in marketing_roi_regression.ipynb top to bottom.
